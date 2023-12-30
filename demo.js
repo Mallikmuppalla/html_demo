@@ -1,0 +1,1 @@
+document.write("welcome to mallikharjuna rao from qatar");
